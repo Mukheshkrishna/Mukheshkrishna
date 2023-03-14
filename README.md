@@ -64,6 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukheshkrishna&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Mukheshkrishna&show_icons=true&theme=radical&color=blue" width="400">
 
 
 <!--
